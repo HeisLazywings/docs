@@ -1,13 +1,11 @@
 {
-  "$schema": "https://mintlify.com/docs.json",
-  "name": "5G Silver Bakery",
+  "projectType": "general",
+  "projectName": "5G Silver Bakery",
+  "projectDescription": "Internal staff documentation for 5G Silver Bakery — covering onboarding, recipes, and daily operations at Zaria's premier dining and entertainment complex.",
   "theme": "almond",
-  "colors": {
-    "primary": "#DC2626",
-    "light": "#FEF2F2",
-    "dark": "#7F1D1D"
-  },
-  "favicon": "/favicon.svg",
+  "primaryColor": "#DC2626",
+  "lightColor": "#FEF2F2",
+  "darkColor": "#7F1D1D",
   "navigation": {
     "tabs": [
       {
@@ -49,5 +47,16 @@
         ]
       }
     ]
-  }
+  },
+  "keyFeatures": [
+    "Warm onboarding for new bakery staff",
+    "Structured signature bread recipe with step-by-step guide",
+    "Bakery and fast food recipe templates (meat pie, pastries, drinks)",
+    "Morning opening and evening closing checklists",
+    "Hygiene and food safety standards",
+    "Inventory and stock management procedures",
+    "Customer service and ordering guidelines",
+    "Contact details and location info for 5G Silver Square, Zaria"
+  ],
+  "publicApiSurface": []
 }
